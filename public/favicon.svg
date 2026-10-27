@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Polyglot Bridge">
+  <rect width="64" height="64" rx="16" fill="#0f766e"/>
+  <path d="M10 44h44" stroke="#fff" stroke-width="3.2" stroke-linecap="round"/>
+  <rect x="14" y="30" width="7" height="14" rx="1.5" fill="#fff"/>
+  <rect x="43" y="30" width="7" height="14" rx="1.5" fill="#fff"/>
+  <path d="M21 44c0-9 6.2-15 11-15s11 6 11 15" stroke="#fff" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+  <circle cx="47" cy="18" r="4.5" fill="#c7d2fe"/>
+</svg>
